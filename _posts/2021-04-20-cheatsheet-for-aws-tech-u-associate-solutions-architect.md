@@ -1,3 +1,8 @@
+---
+title:  "Cheatsheet for AWS Tech U Associate Solutions Architect."
+layout: post
+---
+
 # **Cheatsheet for AWS Tech U Associate Solutions Architect.**
 
 *This guide is created based on the author's experience on applying, preparing and going through the AWS interview session for the Tech U Associate Solutions Architect position on 2019.
